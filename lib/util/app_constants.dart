@@ -4,8 +4,8 @@ import 'package:ride_sharing_user_app/util/images.dart';
 
 class AppConstants {
   static const String appName = 'RiderLink PH Driver';
-  static const String baseUrl = 'http://127.0.0.1:8080';
-  static const String polylineMapKey = 'AIzaSyC0oFj2sPhGY9Q6J7JPan9L_a1bSrBkWV4';
+  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String polylineMapKey = 'YOUR_API_KEY_HERE';
   static const double appVersion = 3.2;   /// Flutter SDK 3.41.9
   static const String configUri = '/api/driver/configuration';
   static const String registration = '/api/driver/auth/registration';
